@@ -90,6 +90,7 @@ public class SelectionBuilder {
         return this;
     }
 
+
     public SelectionBuilder table(String table) {
         mTable = table;
         return this;
