@@ -136,7 +136,7 @@ public class ArticleListActivity extends AppCompatActivity implements
                     // Starting detail view activity
                     startActivity(new Intent(Intent.ACTION_VIEW,
                             ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
-                    ArticleListActivity.this.overridePendingTransition(R.anim.from_left,R.anim.from_right);
+//                    ArticleListActivity.this.overridePendingTransition(R.anim.from_left,R.anim.from_right);
                 }
             });
             return vh;
