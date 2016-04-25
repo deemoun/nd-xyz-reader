@@ -44,11 +44,7 @@ public class ArticleListActivity extends AppCompatActivity implements
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_article_list);
 
-        mToolbar = (Toolbar) findViewById(R.id.toolbar);
-
-
-        final View toolbarContainerView = findViewById(R.id.toolbar_container);
-
+        //mToolbar = (Toolbar) findViewById(R.id.toolbar);
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
 
         mRecyclerView = (RecyclerView) findViewById(R.id.recycler_view);
@@ -135,8 +131,8 @@ public class ArticleListActivity extends AppCompatActivity implements
                 public void onClick(View view) {
                     // Starting detail view activity
                     startActivity(new Intent(Intent.ACTION_VIEW,
-                            ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
-//                    ArticleListActivity.this.overridePendingTransition(R.anim.from_left,R.anim.from_right);
+                    ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
+//                  ArticleListActivity.this.overridePendingTransition(R.anim.from_left,R.anim.from_right);
                 }
             });
             return vh;

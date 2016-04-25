@@ -4,7 +4,7 @@
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="13443591410034" >
+    timestamp="80708465089119" >
 
     <task
         name="javac"
@@ -19,14 +19,23 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="/Users/deemounus/Desktop/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
-        type="MAIN" />
-
-    <build timestamp="13443591410034" >
+    <build timestamp="76366256711606" >
         <artifact
             location="/Users/deemounus/Desktop/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
+    <build timestamp="77875781468019" >
+        <artifact
+            location="/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="78043259453249"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/builds/debug/78043259453249/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="80708465089119" />
 
 </instant-run>
