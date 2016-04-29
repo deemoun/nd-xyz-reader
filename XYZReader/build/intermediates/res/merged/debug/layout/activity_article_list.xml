@@ -15,13 +15,14 @@
             app:contentScrim="?attr/colorPrimary"
             app:expandedTitleMarginEnd="64dp"
             app:expandedTitleMarginStart="48dp"
-            app:layout_scrollFlags="scroll|exitUntilCollapsed">
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            >
       <ImageView
           android:layout_width="match_parent"
           android:layout_height="match_parent"
           app:layout_collapseMode="parallax"
           android:scaleType="centerCrop"
-          android:src="@drawable/news"
+          android:src="@drawable/newspapers"
           />
          <View
              android:layout_width="match_parent"
@@ -29,7 +30,7 @@
              android:layout_gravity="bottom"/>
          <android.support.v7.widget.Toolbar
              android:id="@+id/toolbar"
-             app:layout_scrollFlags="scroll|exitUntilCollapsed"
+             app:layout_scrollFlags="scroll|enterAlways"
              android:layout_width="match_parent"
              android:layout_height="?actionBarSize"
              android:layout_gravity="bottom">
@@ -48,15 +49,15 @@
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
         android:layout_height="match_parent">
 
-        <android.support.v7.widget.RecyclerView
-            android:id="@+id/recycler_view"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:clipToPadding="false"
-            android:scrollbarStyle="outsideOverlay"
-            android:paddingTop="10dp"
-            android:paddingLeft="@dimen/list_side_margin"
-            android:paddingRight="@dimen/list_side_margin"
-            android:paddingBottom="10dp" />
+        <!--<android.support.v7.widget.RecyclerView-->
+            <!--android:id="@+id/recycler_view"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:clipToPadding="false"-->
+            <!--android:scrollbarStyle="outsideOverlay"-->
+            <!--android:paddingTop="10dp"-->
+            <!--android:paddingLeft="@dimen/list_side_margin"-->
+            <!--android:paddingRight="@dimen/list_side_margin"-->
+            <!--android:paddingBottom="10dp" />-->
     </android.support.v4.widget.SwipeRefreshLayout>
 </android.support.design.widget.CoordinatorLayout>

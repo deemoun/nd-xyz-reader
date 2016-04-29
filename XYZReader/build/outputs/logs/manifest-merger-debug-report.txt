@@ -52,7 +52,7 @@ MERGED from [com.android.support:cardview-v7:22.0.0] /Users/deemounus/Desktop/xy
 	android:icon
 		ADDED from /Users/deemounus/Desktop/xyzreader/XYZReader/src/main/AndroidManifest.xml:13:9-43
 	android:theme
-		ADDED from /Users/deemounus/Desktop/xyzreader/XYZReader/src/main/AndroidManifest.xml:15:9-47
+		ADDED from /Users/deemounus/Desktop/xyzreader/XYZReader/src/main/AndroidManifest.xml:15:9-41
 activity#com.example.xyzreader.ui.ArticleListActivity
 ADDED from /Users/deemounus/Desktop/xyzreader/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
 	android:label

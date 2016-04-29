@@ -4,38 +4,55 @@
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="80708465089119" >
+    timestamp="182109565775454"
+    verifier="R_CLASS_CHANGE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="669" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="85" />
     <task
         name="verifier"
-        duration="0" />
+        duration="17" />
 
-    <build timestamp="76366256711606" >
+    <artifact
+        location="/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+
+    <build timestamp="178216950415232" >
         <artifact
             location="/Users/deemounus/Desktop/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="77875781468019" >
+    <build
+        timestamp="182109565775454"
+        verifier="R_CLASS_CHANGE" >
         <artifact
             location="/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />
-    </build>
-    <build
-        timestamp="78043259453249"
-        verifier="COMPATIBLE" >
         <artifact
-            location="/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/builds/debug/78043259453249/classes.dex"
-            type="RELOAD_DEX" />
+            location="/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
     </build>
-    <build timestamp="80708465089119" />
 
 </instant-run>

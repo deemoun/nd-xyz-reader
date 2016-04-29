@@ -1,5 +1,0 @@
-CHANGED,/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class
-CHANGED,/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleListActivity$Adapter$1.class
-CHANGED,/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleListActivity$Adapter.class
-CHANGED,/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleListActivity$1.class
-CHANGED,/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleListActivity.class
