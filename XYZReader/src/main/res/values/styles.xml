@@ -20,6 +20,7 @@
         <item name="colorAccent">@color/color_accent</item>
         <item name="colorPrimaryDark">@color/primary_dark</item>
         <item name="colorPrimary">@color/primary</item>
+        <item name="android:windowExitTransition">@transition/grid_exit</item>
     </style>
 
     <style name="articleHeader">

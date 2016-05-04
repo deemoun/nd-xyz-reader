@@ -11,13 +11,13 @@
                     "endOffset": 112
                 },
                 "from": {
-                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-land/values-land.xml",
+                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 291,
+                        "startOffset": 287,
                         "endColumn": 61,
-                        "endOffset": 348
+                        "endOffset": 344
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-land/values-land.xml",
+                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 590,
+                        "startOffset": 582,
                         "endColumn": 71,
-                        "endOffset": 657
+                        "endOffset": 649
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 254
                 },
                 "from": {
-                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-land/values-land.xml",
+                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 908,
+                        "startOffset": 896,
                         "endColumn": 69,
-                        "endOffset": 973
+                        "endOffset": 961
                     }
                 }
             },
@@ -64,17 +64,17 @@
                     "startLine": 5,
                     "startColumn": 4,
                     "startOffset": 259,
-                    "endColumn": 69,
-                    "endOffset": 324
+                    "endColumn": 63,
+                    "endOffset": 318
                 },
                 "from": {
-                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-land/values-land.xml",
+                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-land/values-land.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 978,
-                        "endColumn": 69,
-                        "endOffset": 1043
+                        "startOffset": 1199,
+                        "endColumn": 63,
+                        "endOffset": 1258
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 329,
-                    "endColumn": 63,
-                    "endOffset": 388
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
                 },
                 "from": {
-                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-land/values-land.xml",
+                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-land/values-land.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1285,
-                        "endColumn": 63,
-                        "endOffset": 1344
+                        "startOffset": 1505,
+                        "endColumn": 70,
+                        "endOffset": 1571
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 393,
-                    "endColumn": 70,
-                    "endOffset": 459
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
                 },
                 "from": {
-                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-land/values-land.xml",
+                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1595,
-                        "endColumn": 70,
-                        "endOffset": 1661
+                        "startOffset": 1576,
+                        "endColumn": 67,
+                        "endOffset": 1639
                     }
                 }
             },
@@ -120,28 +120,9 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 464,
-                    "endColumn": 67,
-                    "endOffset": 527
-                },
-                "from": {
-                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-land/values-land.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1666,
-                        "endColumn": 67,
-                        "endOffset": 1729
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 532,
+                    "startOffset": 462,
                     "endColumn": 57,
-                    "endOffset": 585
+                    "endOffset": 515
                 },
                 "from": {
                     "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/src/main/res/values-land/macro_layout.xml",
@@ -156,11 +137,11 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 590,
+                    "startOffset": 520,
                     "endColumn": 51,
-                    "endOffset": 637
+                    "endOffset": 567
                 },
                 "from": {
                     "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/src/main/res/values-land/macro_layout.xml",
@@ -175,22 +156,22 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 642,
-                    "endLine": 14,
+                    "startOffset": 572,
+                    "endLine": 13,
                     "endColumn": 12,
-                    "endOffset": 819
+                    "endOffset": 749
                 },
                 "from": {
-                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values-land/values-land.xml",
+                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 286,
+                        "startOffset": 282,
                         "endLine": 7,
                         "endColumn": 12,
-                        "endOffset": 463
+                        "endOffset": 459
                     }
                 }
             }

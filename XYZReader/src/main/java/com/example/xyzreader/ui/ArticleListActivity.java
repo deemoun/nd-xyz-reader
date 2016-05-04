@@ -1,6 +1,7 @@
 package com.example.xyzreader.ui;
 
 import android.app.Activity;
+import android.app.ActivityOptions;
 import android.app.LoaderManager;
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -15,10 +16,13 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.StaggeredGridLayoutManager;
 import android.support.v7.widget.Toolbar;
 import android.text.format.DateUtils;
+import android.transition.Slide;
 import android.util.TypedValue;
+import android.view.Gravity;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.animation.AnimationUtils;
 import android.widget.TextView;
 
 import com.example.xyzreader.R;
@@ -42,6 +46,12 @@ public class ArticleListActivity extends AppCompatActivity implements
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_article_list);
+
+        Slide slide = new Slide(Gravity.BOTTOM);
+        slide.addTarget(R.id.article_body);
+        slide.setInterpolator(AnimationUtils.loadInterpolator(this,android.R.interpolator.linear_out_slow_in));
+        slide.setDuration(300);
+        getWindow().setEnterTransition(slide);
 
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
 
@@ -128,9 +138,9 @@ public class ArticleListActivity extends AppCompatActivity implements
                 @Override
                 public void onClick(View view) {
                     // Starting detail view activity
+                    Bundle bundle = ActivityOptions.makeSceneTransitionAnimation(ArticleListActivity.this).toBundle();
                     startActivity(new Intent(Intent.ACTION_VIEW,
-                    ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
-//                  ArticleListActivity.this.overridePendingTransition(R.anim.from_left,R.anim.from_right);
+                    ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))), bundle);
                 }
             });
             return vh;
