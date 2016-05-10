@@ -34,9 +34,9 @@
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 133,
+                        "startOffset": 182,
                         "endColumn": 54,
-                        "endOffset": 183
+                        "endOffset": 232
                     }
                 }
             },
@@ -53,9 +53,28 @@
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 81,
+                        "startOffset": 130,
                         "endColumn": 51,
-                        "endOffset": 128
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 49,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 80,
+                        "endColumn": 49,
+                        "endOffset": 125
                     }
                 }
             }

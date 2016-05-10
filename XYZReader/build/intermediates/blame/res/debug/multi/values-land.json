@@ -121,17 +121,17 @@
                     "startLine": 8,
                     "startColumn": 4,
                     "startOffset": 462,
-                    "endColumn": 57,
-                    "endOffset": 515
+                    "endColumn": 55,
+                    "endOffset": 513
                 },
                 "from": {
                     "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/src/main/res/values-land/macro_layout.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 88,
-                        "endColumn": 57,
-                        "endOffset": 141
+                        "startOffset": 138,
+                        "endColumn": 55,
+                        "endOffset": 189
                     }
                 }
             },
@@ -139,9 +139,28 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 520,
+                    "startOffset": 518,
+                    "endColumn": 57,
+                    "endOffset": 571
+                },
+                "from": {
+                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 57,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 576,
                     "endColumn": 51,
-                    "endOffset": 567
+                    "endOffset": 623
                 },
                 "from": {
                     "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/src/main/res/values-land/macro_layout.xml",
@@ -156,12 +175,31 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 572,
-                    "endLine": 13,
+                    "startOffset": 628,
+                    "endColumn": 49,
+                    "endOffset": 673
+                },
+                "from": {
+                    "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 49,
+                        "endOffset": 133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 678,
+                    "endLine": 15,
                     "endColumn": 12,
-                    "endOffset": 749
+                    "endOffset": 855
                 },
                 "from": {
                     "file": "/Users/deemounus/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/values-land/values-land.xml",
