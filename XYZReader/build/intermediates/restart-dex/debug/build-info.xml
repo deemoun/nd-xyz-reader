@@ -2,28 +2,28 @@
 <instant-run
     abi="x86"
     api-level="23"
-    density="420dpi"
+    density="mdpi"
     format="7"
-    timestamp="10811098449769" >
+    timestamp="13964205639010" >
 
     <task
         name="javac"
-        duration="4327" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1314" />
+        duration="0" />
     <task
         name="verifier"
-        duration="177" />
+        duration="0" />
 
     <artifact
         location="/Users/deemounus/Desktop/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
         type="MAIN" />
 
-    <build timestamp="10811098449769" >
+    <build timestamp="13964205639010" >
         <artifact
             location="/Users/deemounus/Desktop/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
